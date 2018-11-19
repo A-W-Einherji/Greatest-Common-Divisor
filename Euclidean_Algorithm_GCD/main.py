@@ -1,4 +1,4 @@
-# This program runes the Euclidean Algorithm to find the GCD, greatest common divisor of two numbers (a,b).
+# This program runs the Euclidean Algorithm to find the GCD, greatest common divisor of two numbers (a,b).
 
 
 def maximum(x, y):
