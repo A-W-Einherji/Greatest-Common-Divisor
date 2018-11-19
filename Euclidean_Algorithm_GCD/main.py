@@ -4,14 +4,14 @@
 def maximum(x, y):
     if x >= y:
         return x
-    if x < y:
+    else:
         return y
 
 
 def minimum(x, y):
     if x >= y:
         return y
-    if x < y:
+    else:
         return x
 
 
